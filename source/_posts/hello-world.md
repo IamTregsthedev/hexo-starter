@@ -43,7 +43,8 @@ title: Were Builing A Blog Engine for Rocket
   > We're using discordAPI + Others tootls(TBA) to build a community on site.
 <br>
 <hr>
-# That's all For now!
+
+#  That's all For now!
 
 Thanks for reading my changelog, until then this site will be pubilc, and makersrocket will redirect here for the time being as we create the site we wish for. <br>
 If you're genrous enough want to help me pay for software, API's, and Products for Makersrocket, and Help if needed, Shoot me a DM on Twitter at @Tregsthedev.
