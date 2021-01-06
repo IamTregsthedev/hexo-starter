@@ -1,38 +1,40 @@
 ---
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+title: Were Builing A Blog Engine for Rocket
 
-## Quick Start
+# Welcome to PBJAM Jamstack Egine
 
-### Create a new post
+ Jamstack is amazing, the speed, and the hosting, it's pretty good. With that though, <br> Jamstack is also hard to matain and get started on. For some lazy Developers, *cough* Like us, We wanted to build an easier Jamstack Blog engine powered by a existing simple to use platform. In the past few months, we've tried mutlipe hosts, such as <br> ghost, Wordpress, Nodehost, DigitalOcean, and Stackbit. None of them were that good, and got expesnive fast.
+ 
+ <br>
+ 
+ That's why we're building PBJAM by hexo, we want to create a custom build of a engine, We want to build The Rocket Project as an exprince, a Build you've never seen. I'm a solo founder, with a fair share of knowledge, and I'm putting every single hour i can into this project.
+ <br>
+ 
+# some things we want to add
 
-``` bash
-$ hexo new "My New Post"
-```
+ - Login/Signup and Users System
+ > We want to let users signup and use our system
+ <br>
+ - Comments Support + Engine
+ > We're using a fork(custom built) of the Jamstack Comment Engine by Netlify
+ <br>
+  - Content Mangemnet Panel and system
+  > We're using a mix of Sanity and Github CMS 
+  
+  -  API Rendering, and offline cache
+   > Render posts, newsletters and Ads online, and make the site work offline
+   <br>
+   - Mobile First Display
+   > We're using Frameworks which focus on Mobile First response
+   <br>
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+ -  Community 
+  > We're using discordAPI + Others tootls(TBA) to build a community on site.
 
-### Run server
+# That's all For now!
 
-``` bash
-$ hexo server
-```
+Thanks for reading my changelog, until then this site will be pubilc, and makersrocket will redirect here for the time being as we create the site we wish for. <br>
+If you're genrous enough want to help me pay for software, API's, and Products for Makersrocket, and Help if needed, Shoot me a DM on Twitter at @Tregsthedev.
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+See you  👋 Really soon, 😉
+   
