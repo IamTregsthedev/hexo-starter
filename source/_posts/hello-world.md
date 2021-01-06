@@ -24,10 +24,13 @@ title: Were Builing A Blog Engine for Rocket
   > We're using a mix of Sanity and Github CMS 
   
   <br>
+  <br>
+<br>
   -  API Rendering, and offline cache
   > Render posts, newsletters and Ads online, and make the site work offline
    
    <br>
+   
    - Mobile First Display
    > We're using Frameworks which focus on Mobile First response
    <br>
@@ -35,6 +38,7 @@ title: Were Builing A Blog Engine for Rocket
  -  Community 
   > We're using discordAPI + Others tootls(TBA) to build a community on site.
 <br>
+<hr>
 # That's all For now!
 
 Thanks for reading my changelog, until then this site will be pubilc, and makersrocket will redirect here for the time being as we create the site we wish for. <br>
