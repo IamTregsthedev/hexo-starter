@@ -14,15 +14,19 @@ title: Were Builing A Blog Engine for Rocket
 
  - Login/Signup and Users System
  > We want to let users signup and use our system
+ 
  <br>
  - Comments Support + Engine
  > We're using a fork(custom built) of the Jamstack Comment Engine by Netlify
+ 
  <br>
   - Content Mangemnet Panel and system
   > We're using a mix of Sanity and Github CMS 
+  
   <br>
   -  API Rendering, and offline cache
-   > Render posts, newsletters and Ads online, and make the site work offline
+  > Render posts, newsletters and Ads online, and make the site work offline
+   
    <br>
    - Mobile First Display
    > We're using Frameworks which focus on Mobile First response
