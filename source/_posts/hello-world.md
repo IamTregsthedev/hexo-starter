@@ -16,11 +16,13 @@ title: Were Builing A Blog Engine for Rocket
  > We want to let users signup and use our system
  
  <br>
- - Comments Support + Engine
+ <br>
+ 
+ - Comments Support + Engine <br>
  > We're using a fork(custom built) of the Jamstack Comment Engine by Netlify
  
  <br>
-  - Content Mangemnet Panel and system
+  - Content Mangemnet Panel and system <br>
   > We're using a mix of Sanity and Github CMS 
   
   <br>
