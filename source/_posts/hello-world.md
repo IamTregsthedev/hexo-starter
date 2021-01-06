@@ -1,6 +1,6 @@
 ---
 title: Were Builing A Blog Engine for Rocket
-
+---
 # Welcome to PBJAM Jamstack Egine
 
  Jamstack is amazing, the speed, and the hosting, it's pretty good. With that though, <br> Jamstack is also hard to matain and get started on. For some lazy Developers, *cough* Like us, We wanted to build an easier Jamstack Blog engine powered by a existing simple to use platform. In the past few months, we've tried mutlipe hosts, such as <br> ghost, Wordpress, Nodehost, DigitalOcean, and Stackbit. None of them were that good, and got expesnive fast.
